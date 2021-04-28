@@ -10,7 +10,7 @@ for Professional English homework
 [gitee首页](http://gitee.com)
 
 ### Image
-![Artificial Inteligence](https ://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/
+![Artificial Inteligence].(https ://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/
 u=1575619936,834615412&fm=26&gp=0.jpg)
 
 
