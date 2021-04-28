@@ -6,4 +6,6 @@ for Professional English homework
 
 ###  链接
 [github首页](http://github.com)
-[gitee首页](http://gitee.cn)
+
+[gitee首页](http://gitee.com)
+
