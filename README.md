@@ -28,5 +28,5 @@ function
 > >  this is a quote 
 
 ### word
-* bold word*
-* * syntax word**
+*bold word*
+**syntax word**
