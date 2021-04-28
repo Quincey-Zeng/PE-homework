@@ -28,20 +28,15 @@ function
 > >  this is a quote 
 
 ### list
-* first
-* 
-* second
-*    the first element
-    
-*    the second element
-    
-*third
+* first 
+* second 
+*    the first element   
+*    the second element    
+*third 
 
-1.the first line
-
-3.the second line
-
-5.the third line
+1.the first line 
+2.the second line 
+3.the third line 
 
 ### word
 *syntax word*
