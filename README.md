@@ -27,6 +27,17 @@ function
 > a block quote
 > >  this is a quote 
 
+### list
+* first
+* second
++ second.two
++ second.two
+*third
+
+1.the first line
+2.the second line
+3.the third line
+
 ### word
-*bold word*
-**syntax word**
+*syntax word*
+**bold word**
