@@ -26,3 +26,7 @@ function
 ### quote
 > a block quote
 > >  this is a quote 
+
+### word
+* bold word*
+* * syntax word**
