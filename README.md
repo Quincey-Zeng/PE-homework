@@ -29,14 +29,19 @@ function
 
 ### list
 * first
+* 
 * second
-    the first element
-    the second element
+*    the first element
+    
+*    the second element
+    
 *third
 
 1.the first line
-2.the second line
-3.the third line
+
+3.the second line
+
+5.the third line
 
 ### word
 *syntax word*
