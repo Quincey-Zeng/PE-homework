@@ -35,10 +35,10 @@ a bulleted list
     *    the second element    
 * third 
  
-a numbered list
-1.the first line 
-2.the second line 
-3.the third line 
+a numbered list  
+1.the first line    
+2.the second line   
+3.the third line   
 
 ### table 
 姓名|学号|班级
@@ -48,7 +48,7 @@ a numbered list
 王五|003|2
 
 ### word
-*syntax word*
-**bold word**
-***syntax and bold word***
-~~deleted text~~
+*syntax word*  
+**bold word**  
+***syntax and bold word***  
+~~deleted text~~  
