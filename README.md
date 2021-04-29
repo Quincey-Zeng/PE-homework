@@ -11,7 +11,9 @@ for Professional English homework
 [另一个Markdown文件](https://github.com/Quincey-Zeng/PE-homework/blob/main/anothermd.md)
 
 ### Image
-![Image](http://ccst.jlu.edu.cn/__local/F/24/94/832F44F83E3CB1CE8A1D90AAC68_B204509C_1C8BD.jpg "外部图片")
+外部图片  
+![Image](http://ccst.jlu.edu.cn/__local/F/24/94/832F44F83E3CB1CE8A1D90AAC68_B204509C_1C8BD.jpg "外部图片")  
+仓库图片 
 ![Image2](https://github.com/Quincey-Zeng/PE-homework/blob/main/png1.png "仓库文件")
 
 
