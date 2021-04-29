@@ -8,6 +8,7 @@ for Professional English homework
 [github首页](http://github.com)
 
 [gitee首页](http://gitee.com)
+[另一个Markdown文件](https://github.com/Quincey-Zeng/PE-homework/blob/main/anothermd.md)
 
 ### Image
 ![Image](http://ccst.jlu.edu.cn/__local/F/24/94/832F44F83E3CB1CE8A1D90AAC68_B204509C_1C8BD.jpg "外部图片")
