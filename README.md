@@ -1,57 +1,58 @@
 # PE-homework
-for Professional English homework 
+a reository for Professional English homework 
 ###  Header
-## H2Header
-#### H4Header
+## a H2Header
+#### a H4Header
 
-###  Link
+###  Links
 [github首页](http://github.com)
 
 [gitee首页](http://gitee.com)
 [另一个Markdown文件](https://github.com/Quincey-Zeng/PE-homework/blob/main/anothermd.md)
 
-### Image
+### Images
 外部图片  
 ![Image](http://ccst.jlu.edu.cn/__local/F/24/94/832F44F83E3CB1CE8A1D90AAC68_B204509C_1C8BD.jpg "外部图片")  
 仓库图片   
 ![Image2](https://github.com/Quincey-Zeng/PE-homework/blob/main/png1.png "仓库文件")
 
 
-###  code block
+###  code blocks
 ```python
-# define a function
-def function():
-  print("this is a code block)
+# to define a python function
+def test():
+  print("function test")
   
-function
+test
+print("hello world")
 ```
 
 ### quote
 > a block quote
-> >  this is a quote 
+> >   quote from where 
 
-### list
+### lists
 a bulleted list
-* first 
-* second 
-    *    the first element   
-    *    the second element    
-* third 
+* first line
+* second line
+    *    element one
+    *    element two 
+* third line
  
 a numbered list  
-1.the first line    
-2.the second line   
-3.the third line   
+1.this is the first line    
+2.this is the second line   
+3.this is the third line   
 
-### table 
-姓名|学号|班级
+### tables 
+column1|column2|colume3
 --|:--:|--:
-张三|001|1
-李四|002|1
-王五|003|2
+row 1|001|1
+row 2|002|1
+row 3|003|2
 
-### word
-*syntax word*  
-**bold word**  
-***syntax and bold word***  
+### words
+*syntax words*  
+**some bold words**  
+***syntax and bold content***  
 ~~deleted text~~  
