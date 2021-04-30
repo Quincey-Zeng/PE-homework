@@ -23,7 +23,7 @@ a reository for Professional English homework
 def test():
   print("function test")
   
-test
+test()
 print("hello world")
 ```
 
